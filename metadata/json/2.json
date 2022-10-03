@@ -1,0 +1,18 @@
+{
+    "description": "first nft", 
+    "external_url": "", 
+    "image": "https://gateway.pinata.cloud/ipfs/QmagXUuBQC1eDT3wqRqGNrcJ2TYdzE4ZC3KVJjKiCTDfAF/2.png", 
+    "name": "2nd hero",
+    "attributes": [
+        
+      {
+        "trait_type": "Base", 
+        "value": "Starfish"
+      }, 
+      {
+        "trait_type": "Eyes",
+        "value": "Big"
+      }
+  
+    ]
+  }
